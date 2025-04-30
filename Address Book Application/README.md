@@ -4,16 +4,16 @@ This is a simple address book application written in C#. It allows users to add,
 ## Getting Started
 - To run this application, you'll need to have the .NET Framework installed on your system.
 - Once you have .NET installed, you can compile and run the application.
-- Alternatively, you can use an integrated development environment (IDE) like Visual Studio to open and run the application.
+- Alternatively, you can use an integrated development environment (IDE) like Microsoft Visual Studio to open and run the application.
 
 ## Usage
 When you run the application, you'll see a menu with several options:
 
-1. View Contacts - displays a list of all contacts in the address book
-1. Add Contact - adds a new contact to the address book
-1. Edit Contact - edits an existing contact in the address book
-1. Delete Contact - deletes a contact from the address book
-1. Exit - exits the application
+1. View Contacts - Displays a list of all contacts in the address book
+2. Add Contact - Adds a new contact to the address book
+3. Edit Contact - Edits an existing contact in the address book
+4. Delete Contact - Deletes a contact from the address book
+5. Exit - Exits the application
 
 To select an option, enter the corresponding number and press Enter.
 
@@ -33,4 +33,4 @@ This option allows you to delete a contact from the address book. You'll be prom
 This option exits the application.
 
 ## License
-This application is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit
+This application is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
